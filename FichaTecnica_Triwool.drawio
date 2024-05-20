@@ -1,47 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T11:55:51.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="KyJfpLdF4usgUFatiCDy" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T12:00:48.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="FLmu8u-uyV-EKAdSfECD" version="24.4.4" type="github">
   <diagram name="Página-1" id="gCnSP9DHalBOpo_OgWD9">
     <mxGraphModel dx="736" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wdGilvAF-dGO39bZbz52-3" value="Triwool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#b0e3e6;strokeColor=#0e8088;sketchStyle=rough;" parent="1" vertex="1">
-          <mxGeometry x="70" y="30" width="480" height="380" as="geometry" />
+          <mxGeometry x="70" y="30" width="530" height="380" as="geometry" />
         </mxCell>
         <mxCell id="wdGilvAF-dGO39bZbz52-4" value="Dept. Técnico" style="swimlane;startSize=20;horizontal=0;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketchStyle=rough;" parent="wdGilvAF-dGO39bZbz52-3" vertex="1">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
+          <mxGeometry y="20" width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wdGilvAF-dGO39bZbz52-9" value="Criação da&lt;div&gt;Ficha técnica&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;hachureGap=4;fontFamily=Verdana;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;sketchStyle=rough;html=1;fontSize=9;" parent="wdGilvAF-dGO39bZbz52-4" vertex="1">
-          <mxGeometry x="120" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UnYJjGZQxUQxzCnW-5op-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wdGilvAF-dGO39bZbz52-4" source="UnYJjGZQxUQxzCnW-5op-15" target="wdGilvAF-dGO39bZbz52-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UnYJjGZQxUQxzCnW-5op-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wdGilvAF-dGO39bZbz52-4" source="UnYJjGZQxUQxzCnW-5op-15" target="wdGilvAF-dGO39bZbz52-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="30" />
+              <mxPoint x="80" y="50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UnYJjGZQxUQxzCnW-5op-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wdGilvAF-dGO39bZbz52-4">
-          <mxGeometry x="60" y="30" width="40" height="40" as="geometry" />
+          <mxGeometry x="30" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdGilvAF-dGO39bZbz52-5" value="Comercial" style="swimlane;startSize=20;horizontal=0;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketchStyle=rough;fillColor=#f9f7ed;strokeColor=#36393d;" parent="wdGilvAF-dGO39bZbz52-3" vertex="1">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="UnYJjGZQxUQxzCnW-5op-5" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="wdGilvAF-dGO39bZbz52-5">
-          <mxGeometry x="440" y="35" width="30" height="30" as="geometry" />
+          <mxGeometry y="140" width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UnYJjGZQxUQxzCnW-5op-17" value="Criação da Encomenda" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=Verdana;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;hachureGap=4;fillStyle=solid;sketchStyle=rough;" vertex="1" parent="wdGilvAF-dGO39bZbz52-5">
-          <mxGeometry x="80" y="35" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnYJjGZQxUQxzCnW-5op-21" value="Criação da Ordem de Fabrico" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=Verdana;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;hachureGap=4;fillStyle=solid;sketchStyle=rough;" vertex="1" parent="wdGilvAF-dGO39bZbz52-5">
-          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnYJjGZQxUQxzCnW-5op-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wdGilvAF-dGO39bZbz52-5" source="UnYJjGZQxUQxzCnW-5op-17" target="UnYJjGZQxUQxzCnW-5op-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wdGilvAF-dGO39bZbz52-6" value="Produção" style="swimlane;startSize=20;horizontal=0;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;sketchStyle=rough;" parent="wdGilvAF-dGO39bZbz52-3" vertex="1">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
+          <mxGeometry y="260" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UnYJjGZQxUQxzCnW-5op-38" value="Produção" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wdGilvAF-dGO39bZbz52-6">
+          <mxGeometry x="250" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UnYJjGZQxUQxzCnW-5op-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="wdGilvAF-dGO39bZbz52-3" source="UnYJjGZQxUQxzCnW-5op-17" target="wdGilvAF-dGO39bZbz52-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="270" as="sourcePoint" />
             <mxPoint x="270" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UnYJjGZQxUQxzCnW-5op-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="wdGilvAF-dGO39bZbz52-3" source="UnYJjGZQxUQxzCnW-5op-15" target="UnYJjGZQxUQxzCnW-5op-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UnYJjGZQxUQxzCnW-5op-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wdGilvAF-dGO39bZbz52-3" source="UnYJjGZQxUQxzCnW-5op-21" target="UnYJjGZQxUQxzCnW-5op-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
